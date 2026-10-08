@@ -197,6 +197,19 @@ docs/           Banner, generated results, development record
 - Full episodes are convenient for correct recurrent PPO but require memory proportional to horizon. A production-scale extension should use sequence minibatches with burn-in and carefully tested recurrent masks.
 - Future work: multiple training seeds, capacity-matched baselines, sparse-reward runs, sampled-policy evaluation, withheld topology families, a text-token encoder, and optional Transformer memory. These are extensions, not placeholder core implementations.
 
+<!-- certifications:start -->
+## Relevant Certifications
+
+Related training completed by **Melek Moalla**, with the connection to this project stated below.
+
+<a href="https://learn.nvidia.com/certificates?id=nQezqvF2S3GIgeoy1hNHKw"><img width="360" src="assets/certifications/nvidia-deep-learning.svg" alt="NVIDIA: Fundamentals of Deep Learning" /></a>
+
+**NVIDIA · Fundamentals of Deep Learning**  
+Related to PyTorch neural policy encoders and the project’s controlled comparisons of agent memory and generalization.  
+[Verify / issuer record](https://learn.nvidia.com/certificates?id=nQezqvF2S3GIgeoy1hNHKw) · [Original PDF](https://github.com/MoallaMelek/MoallaMelek/blob/master/certificates/nvidia-deep-learning.pdf)
+
+<!-- certifications:end -->
+
 ## References
 
 - Schulman et al., [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347), 2017.
