@@ -35,6 +35,8 @@ Demo recording slot: `docs/demo.gif` (optional future screen recording; no fabri
 Python **3.11+**, CPU supported. The recorded experiments used Python 3.13 and PyTorch 2.10 CPU. No paid APIs, model downloads, language-model service, or ALFWorld installation is required. The dashboard works offline.
 
 ```bash
+git clone https://github.com/MoallaMelek/Reinforcement-Learning-Memory-Dungeon.git
+cd Reinforcement-Learning-Memory-Dungeon
 python -m venv .venv
 ```
 
